@@ -1,0 +1,116 @@
+Day 1 begins.
+Alice the Manager arrives and opens the store.
+Alice opens the store.
+Cookie the Cat meows.
+Muffin the Cat meows.
+Whiskers the Cat meows.
+Buddy the Dog barks.
+Rex the Dog barks.
+Fido the Dog barks.
+Bob the Clerk arrives.
+Bob feeds the animals.
+Cookie the Cat eats.
+Muffin the Cat eats.
+Whiskers the Cat eats.
+Buddy the Dog eats.
+Rex the Dog eats.
+Fido the Dog eats.
+Bob plays with the animals.
+Cookie the Cat plays and chases their tail.
+Muffin the Cat plays and chases their tail.
+Whiskers the Cat plays and chases their tail.
+Buddy the Dog fetches the ball.
+Rex the Dog fetches the ball.
+Fido the Dog fetches the ball.
+Alice the Manager takes a lunch break.
+Bob the Clerk takes a lunch break.
+Bob sells some of the animals.
+Cookie was sold. Replacing with NewCat42.
+Bob the Clerk leaves.
+Alice closes the store.
+Cookie the Cat goes to sleep.
+Muffin the Cat goes to sleep.
+Whiskers the Cat goes to sleep.
+Buddy the Dog goes to sleep.
+Rex the Dog goes to sleep.
+Fido the Dog goes to sleep.
+Alice the Manager leaves and closes the store.
+Day 1 ends.
+
+Day 2 begins.
+Alice the Manager arrives and opens the store.
+Alice opens the store.
+NewCat42 the Cat meows.
+Muffin the Cat meows.
+Whiskers the Cat meows.
+Buddy the Dog barks.
+Rex the Dog barks.
+Fido the Dog barks.
+Bob the Clerk arrives.
+Bob feeds the animals.
+NewCat42 the Cat eats.
+Muffin the Cat eats.
+Whiskers the Cat eats.
+Buddy the Dog eats.
+Rex the Dog eats.
+Fido the Dog eats.
+Bob plays with the animals.
+NewCat42 the Cat plays and chases their tail.
+Muffin the Cat plays and chases their tail.
+Whiskers the Cat plays and chases their tail.
+Buddy the Dog fetches the ball.
+Rex the Dog fetches the ball.
+Fido the Dog fetches the ball.
+Alice the Manager takes a lunch break.
+Bob the Clerk takes a lunch break.
+Bob sells some of the animals.
+Rex was sold. Replacing with NewDog53.
+Bob the Clerk leaves.
+Alice closes the store.
+NewCat42 the Cat goes to sleep.
+Muffin the Cat goes to sleep.
+Whiskers the Cat goes to sleep.
+Buddy the Dog goes to sleep.
+NewDog53 the Dog goes to sleep.
+Fido the Dog goes to sleep.
+Alice the Manager leaves and closes the store.
+Day 2 ends.
+
+Day 3 begins.
+Alice the Manager arrives and opens the store.
+Alice opens the store.
+NewCat42 the Cat meows.
+Muffin the Cat meows.
+Whiskers the Cat meows.
+Buddy the Dog barks.
+NewDog53 the Dog barks.
+Fido the Dog barks.
+Bob the Clerk arrives.
+Bob feeds the animals.
+NewCat42 the Cat eats.
+Muffin the Cat eats.
+Whiskers the Cat eats.
+Buddy the Dog eats.
+NewDog53 the Dog eats.
+Fido the Dog eats.
+Bob plays with the animals.
+NewCat42 the Cat plays and chases their tail.
+Muffin the Cat plays and chases their tail.
+Whiskers the Cat plays and chases their tail.
+Buddy the Dog fetches the ball.
+NewDog53 the Dog fetches the ball.
+Fido the Dog fetches the ball.
+Alice the Manager takes a lunch break.
+Bob the Clerk takes a lunch break.
+Bob sells some of the animals.
+Whiskers was sold. Replacing with NewCat88.
+Bob the Clerk leaves.
+Alice closes the store.
+NewCat42 the Cat goes to sleep.
+Muffin the Cat goes to sleep.
+NewCat88 the Cat goes to sleep.
+Buddy the Dog goes to sleep.
+NewDog53 the Dog goes to sleep.
+Fido the Dog goes to sleep.
+Alice the Manager leaves and closes the store.
+Day 3 ends.
